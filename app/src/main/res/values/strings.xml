@@ -1,0 +1,22 @@
+<resources>
+    <string name="hosgeldin">Şanlıurfaya hoşgeldiniz</string>
+    <string name="app_name">TourApp</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hotel">HOTEL</string>
+    <string name="restaurant">RESTAURANT</string>
+    <string name="vist">VISIT</string>
+    <string name="galeria">GALERIA</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="hotel1">El Ruha Adres: Yeni Mahallesi, Haleplibahçe Cd. 155/A, 63210 Merkez/Şanlıurfa Merkez/Şanlıurfa Telefon: (0414) 215 44 11</string>
+    <string name="hotel2">MANİCİ OTEL Adres: Dedeosman Mh., 1252. Sk. No:3, 63210 Merkez/Eyyübiye/Şanlıurfa Telefon: (0414) 215 99 11</string>
+    <string name="galeria1">BALIKLI GÖL TARİHÇESİ Balıklıgöl, (Aynzeliha ve Halil-Ür Rahman Gölleri) Şanlıurfa şehir merkezinin güneybatısında yer alan ve İbrahim Peygamberin ateşe atıldığında düştüğü yer olarak bilinen bu iki göl, kutsal balıkları ve çevrelerindeki tarihi eserler ile Şanlıurfa\'nın en çok ziyaretçi çeken yerlerindendir.İbrahim Peygamber, devrin zalim hükümdarı Nemrut ve halkının taptığı putlarla mücadele etmeye, tek tanrı fikrini savunmaya başlayınca, Nemrut tarafından bugünkü Urfa Kalesinin bulunduğu tepeden ateşe atılır. Bu sırada Allah tarafından ateşe 'Ey ateş, İbrahim'e karşı serin ve selamet ol' emri verilir. Bu emir üzerine, ateş suya odunlar da balığa dönüşür. İbrahim bir gül bahçesinin içersine sağ olarak düşer. İbrahim'in düştüğü yer Halil-ür Rahman gölüdür. Rivayete göre Nemrut'un kızı Zeliha da İbrahim'e inandığından kendisini onun peşinden ateşe atar. Zeliha'nın düştüğü yerde de Aynzeliha Gölü oluşmuştur.
+</string>
+    <string name="galeria2">HARRAN EVLERİ Harran Kültür Evi ören yerinin tam ortasında keyifli bir mekan, 200-300 yıllık tarihi geçmişi vardır. 19 odadan oluşur, İkili,üçlü,altılı kubbe grupları iç kısımda kemerlerle birbirine bağlanmış ve böylece geniş mekanlar elde edilmiştir.Harran Evleri bölgenin iklimine uyumlu olup yazları serin, kışları sıcaktır.</string>
+    <string name="restname">SEVGİ CİĞER</string>
+    <string name="restknow">Adres: Şehitlik Mahallesi, İpekyol Blv. Yanyolu No:1, 63100 Haliliye/Şanlıurfa Çalışma saatleri: Bugün açık · 09:00–22:00 Telefon: (0414) 314 03 29</string>
+    <string name="restname2">ODUNCU RESTAURANT</string>
+    <string name="restknow2">Adres: Paşabağı Mahallesi, Şani Efendi Cd. No:167, 63040 Şanlıurfa Merkez/Şanlıurfa Çalışma saatleri: Bugün açık · 08:00–22:30 Telefon: (0414) 315 73 15</string>
+    <string name="visit">Şanlıurfa nın bir ilçesi olan Halfeti, yüzyıllardır birçok medeniyete ev sahipliği yapmış. 2000 yılında Birecik Barajı nın yapılmasıyla yarısı sular altında kalan diğer yarısında ise yerleşim yerleri oluşturulan Halfeti, saklı bir cennet olarak ilçede en çok ziyaret edilen yerlerin</string>
+    <string name="visit2"></string>
+</resources>
